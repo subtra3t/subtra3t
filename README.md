@@ -22,4 +22,4 @@
 
 ### Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subtra3t&exclude_repo=Scratch-Archive,github-slideshow)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subtra3t&exclude_repo=Scratch-Archive,github-slideshow)]()
