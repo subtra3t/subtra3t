@@ -4,11 +4,16 @@
   Hi there. My name is Devansh Patil, a 13 year old aspiring developer.
 
 ### Languages I know:
-1. Python [MODULES: NumPy, Arcade, Manim]
+1. Python [MODULES: NumPy, Arcade]
 2. Web [HTML|CSS|JAVASCRIPT|JS FRAMEWORKS]
 3. C#
 4. Rust 
+5. Swift (not UIkit or SwiftUI)
 
+
+### If you want to contact me...
+
+Drop an email at [mailto:subta3t.dev@gmail.com](subta3t.dev@gmail.com). On weekdays, I should be able to talk with you just fine. But on *weekends*, ...
 
 ### My Github Stats:
 
