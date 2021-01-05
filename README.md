@@ -9,12 +9,12 @@
 3. C#
 4. Rust (Still Learning)
 5. Swift (not UIkit or SwiftUI)
-6. C (Still Learning
+6. C (Still Learning)
 
 
 ### If you want to contact me...
 
-Drop an email at [mailto:subta3t.dev@gmail.com](subta3t.dev@gmail.com). On weekdays, I should be able to talk with you just fine. But on *weekends*, ...
+Drop an email at [subtra3t.dev@gmail.com](mailto:subtra3t.dev@gmail.com). On weekdays, I should be able to talk with you just fine. But on *weekends*, ...
 
 ### My Github Stats:
 
