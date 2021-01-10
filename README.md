@@ -7,9 +7,10 @@
 1. Python [MODULES: NumPy, Arcade]
 2. Web [HTML|CSS|JAVASCRIPT|JS FRAMEWORKS]
 3. C#
-4. Rust (Still Learning)
-5. Swift (not UIkit or SwiftUI)
-6. C (Still Learning)
+4. Rust (Still learning)
+5. Lua
+6. Swift (not UIkit or SwiftUI)
+7. C (Still learning)
 
 
 ### If you want to contact me...
