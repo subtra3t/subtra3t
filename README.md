@@ -1,7 +1,12 @@
 # Hello World
 <hr>
-<br>
-  Hi there. My name is Devansh Patil, a 14 year old self-taught aspiring developer.
+
+#### Hi there. My name is Devansh Patil, and I am a 14 year old self-taught aspiring developer.
+ 
+ 
+### Who am I
+
+Okay, so if you are here, you might have some foggy idea about who I am, and what I do. But if not, fear not [get it?]. I am a programming student/nerd who loves Computer Science, Maths, and [sometimes] Philosophy. I [regularly] write blog articles [here](https://subtra3t.github.io/blog/).
 
 ### Languages I know:
 1. Python [MODULES: NumPy, Arcade]
