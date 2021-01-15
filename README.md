@@ -17,6 +17,12 @@ Okay, so if you are here, you might have some foggy idea about who I am, and wha
 6. Swift (not UIkit or SwiftUI)
 7. C (Still learning)
 
+### My hobbies
+
+* Learning programming languages
+* Reading books
+* Listening to music
+* Studying maths
 
 ### If you want to contact me...
 
