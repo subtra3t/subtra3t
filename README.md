@@ -9,13 +9,14 @@
 Okay, so if you are here, you might have some foggy idea about who I am, and what I do. But if not, fear not [get it?]. I am a programming student/nerd who loves Computer Science, Maths, and [sometimes] Philosophy.
 
 ### Languages I know:
-1. Python [MODULES: NumPy, Arcade]
-2. Web [HTML|CSS|JAVASCRIPT|JS FRAMEWORKS]
-3. C#
-4. Rust (Still learning)
-5. Lua
-6. Swift (not UIkit or SwiftUI)
-7. C (Still learning)
+1. Python [MODULES: Arcade, Pandas]
+2. HTMl | CSS
+3. JavaScript and TypeScript
+4. C#
+5. Rust (Still learning)
+6. Lua
+7. Swift (not UIkit or SwiftUI)
+8. C (Still learning)
 
 ### Fun facts about me (that I want to share)
 * I hate StackOverflow (seriously!)
@@ -47,7 +48,7 @@ Drop an email at [subtra3t.dev@gmail.com](mailto:subtra3t.dev@gmail.com). On wee
 
 ### My Github Stats:
 
-[![subtra3t's github stats](https://github-readme-stats.vercel.app/api?username=subtra3t&show_icons=true&icon_color=aaddff&theme=algolia&bg_color=45,000000,1e047d&custom_title=subtra3t's%20GitHub%20Stats&text_color=0099ff)](https://github.com/subtra3t)
+[![subtra3t's github stats](https://github-readme-stats.vercel.app/api?username=subtra3t&show_icons=true&icon_color=aaddff&theme=algolia&custom_title=subtra3t's%20GitHub%20Stats)](https://github.com/subtra3t)
 
 
 ### Top Languages:
